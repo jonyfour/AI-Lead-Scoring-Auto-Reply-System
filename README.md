@@ -73,3 +73,14 @@ Example Output
   "reasoning": "Clear buying intent with defined budget and project scope.",
   "suggested_reply": "Thank you for your inquiry. We'd be happy to discuss how we can automate your inbound requests. Could we schedule a short call this week?"
 }
+
+## Screenshots
+
+### Input
+![input](screenshots/input.png)
+
+### Output
+![output](screenshots/output.png)
+
+### Apps Script Logic
+![code](screenshots/code.png)
